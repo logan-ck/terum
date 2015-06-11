@@ -35,7 +35,7 @@
 					<nav class="navbar">
 						<ul>
 							<a href="http://terum.us/index.php"><li id="home">Homepage</li></a>
-							<a href="http://terum.us/repository.php"><li id="repo">Repository</li></a>
+							<a href="https://www.github.com/loganbutlre"><li id="repo">Repository</li></a>
 							<a href="http://terum.us/about.php"><li id="abou">About</li></a>
 							<a href="http://terum.us/solutions.php"><li id="exra">Solutions</li></a>
 							<a href="http://terum.us/contact.php"><li id="cont">Contact</li></a>

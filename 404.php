@@ -52,7 +52,7 @@
 			<!-- Start Body -->
 			<div class="body">
 				<div class="header"> <br /> <br />
-					<h1 class="page-header"> <i class="fa fa-frown-o"></i> Something went wrong <br />
+					<h1 class="center"> <i class="fa fa-frown-o"></i> Something went wrong <br />
 					<span class="sub">did you type the wrong URL or click a broken link?</span></h1> <br />
 					<p class="center"> &nbsp; &nbsp; &nbsp; error code: <span style="color: red;">404</span> (requested url not found)</p>
 				</div>
