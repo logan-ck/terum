@@ -44,7 +44,7 @@
 				</div>
 				
 				<div class="footer">
-					&copy; 2015 Logan Butler <br /> &nbsp; &nbsp; &nbsp; <a class="dl" href="cv.zip">Download CV</a>
+					&copy; 2015 Logan Butler <br /> &nbsp; &nbsp; &nbsp; <a class="dl" href="info.php?dmca">DMCA</a>
 				</div>
 			</div>
 			<!-- End Nav-Sidebar -->
