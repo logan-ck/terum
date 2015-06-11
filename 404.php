@@ -15,11 +15,11 @@
 
 			<!-- Page fonts: Abel, Sans -->
 			<link href='http://fonts.googleapis.com/css?family=Abel' rel='stylesheet' type='text/css'>
-			<link href="css/main.one.css" rel="stylesheet" type="text/css"/>
+			<link href="http://terum.us/css/main.one.css" rel="stylesheet" type="text/css"/>
 			<link href="css/main.two.css" rel="stylesheet" type="text/css"/>
 			
 			<!-- Font Awesome 4.3.0 -->
-			<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
+			<link href="http://terum.us/font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
 		
 			<title>Terum International Solutions</title>
 		</head>
@@ -28,7 +28,7 @@
 			<!-- Navigation Sidebar -->
 			<div class="sidebar">
 				<!-- Logo -->
-				<img class="logo" src="teurm.png" height="150" width="180" alt="logo"/>
+				<img class="logo" src="http://terum.us/teurm.png" height="150" width="180" alt="logo"/>
 				
 				<!-- Navigation -->
 				<div class="left-nav">
@@ -44,7 +44,7 @@
 				</div>
 				
 				<div class="footer">
-					&copy; 2015 Logan Butler <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a class="dl" href="http://terum.us/info.php?dmca">DMCA</a>
+					&copy; 2015 Logan Butler <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a class="dl" href="http://terum.us/info.php?action=dmca">DMCA</a>
 				</div>
 			</div>
 			<!-- End Nav-Sidebar -->

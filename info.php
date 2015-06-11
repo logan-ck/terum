@@ -51,7 +51,7 @@
 				</div>
 				
 				<div class="footer">
-					&copy; 2015 Logan Butler <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a class="dl" href="http://terum.us/info.php?dmca">DMCA</a>
+					&copy; 2015 Logan Butler <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a class="dl" href="http://terum.us/info.php?action=dmca">DMCA</a>
 				</div>
 			</div>
 			<!-- End Nav-Sidebar -->
