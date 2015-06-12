@@ -28,16 +28,16 @@
 			<!-- Navigation Sidebar -->
 			<div class="sidebar">
 				<!-- Logo -->
-				<img class="logo" src="teurm.png" height="150" width="180" alt="logo"/>
+				<img class="logo" src="http://terum.us/img/teurm.png" height="150" width="180" alt="logo"/>
 				
 				<!-- Navigation -->
 				<div class="left-nav">
 					<nav class="navbar">
 						<ul>
 							<a href="http://terum.us/index.php"><li id="home">Homepage</li></a>
-							<a href="https://www.github.com/loganbutlre"><li id="repo">Repository</li></a>
+							<a href="https://github.com/loganbutlre"><li id="repo">Repository</li></a>
 							<a href="http://terum.us/about.php"><li id="abou">About</li></a>
-							<a href="http://terum.us/solutions.php"><li id="exra">Solutions</li></a>
+							<a href="http://terum.us/projects.php"><li id="exra">Projects</li></a>
 							<a href="http://terum.us/contact.php"><li id="cont">Contact</li></a>
 						</ul>
 					</nav>
@@ -69,42 +69,6 @@
 						<br clear="left"/>
 						
 						<p class="postline"><i style="font-size: 13px;" class="fa fa-pencil"></i> Posted by Logan Butler (Terum) on June 10th, 2015</p>
-					</div>
-					<div class="post">
-						<h2>WHAT? Another headline for something awesome!</h2>
-						<p class="sub-title">This is a sub-heading for the already cool headline above.</p>
-						
-						<br clear="left"/>
-						
-						<p class="page-content"
-						> This is the paragraph to the already super awesome cool headline above. This is where I explain, in detail, the headlined topic above. Sometimes, I'll even post sections and snippets of code so you can better understand what I'm talking about. I'm just making stuff up now, because I can't really think of anything to fill this space. It's pretty cool, am i right? Now check this out!This is the paragraph to the already super awesome cool headline above. This is where I explain, in detail, the headlined topic above. Sometimes, I'll even post sections and snippets of code so you can better understand what I'm talking about. I'm just making stuff up now, because I can't really think of anything to fill this space. It's pretty cool, am i right? Now check this out! </p>
-						
-						<br clear="left"/>
-						
-						<p class="page-content"
-						> This is the paragraph to the already super awesome cool headline above. This is where I explain, in detail, the headlined topic above. Sometimes, I'll even post sections and snippets of code so you can better understand what I'm talking about. I'm just making stuff up now, because I can't really think of anything to fill this space. It's pretty cool, am i right? Now check this out!This is the paragraph to the already super awesome cool headline above. This is where I explain, in detail, the headlined topic above. Sometimes, I'll even post sections and snippets of code so you can better understand what I'm talking about. I'm just making stuff up now, because I can't really think of anything to fill this space. It's pretty cool, am i right? Now check this out! </p>
-						
-						<br clear="left"/>
-						
-						<p class="postline"><i style="font-size: 13px;" class="fa fa-pencil"></i> Posted by Logan Butler (Terum) on June 11th, 2015</p>
-					</div>
-					<div class="post">
-						<h2>No way.. Not another fucking post about something cool.</h2>
-						<p class="sub-title">This is a sub-heading for the already cool headline above.</p>
-						
-						<br clear="left"/>
-						
-						<p class="page-content"
-						> This is the paragraph to the already super awesome cool headline above. This is where I explain, in detail, the headlined topic above. Sometimes, I'll even post sections and snippets of code so you can better understand what I'm talking about. I'm just making stuff up now, because I can't really think of anything to fill this space. It's pretty cool, am i right? Now check this out!This is the paragraph to the already super awesome cool headline above. This is where I explain, in detail, the headlined topic above. Sometimes, I'll even post sections and snippets of code so you can better understand what I'm talking about. I'm just making stuff up now, because I can't really think of anything to fill this space. It's pretty cool, am i right? Now check this out! </p>
-						
-						<br clear="left"/>
-						
-						<p class="page-content"
-						> This is the paragraph to the already super awesome cool headline above. This is where I explain, in detail, the headlined topic above. Sometimes, I'll even post sections and snippets of code so you can better understand what I'm talking about. I'm just making stuff up now, because I can't really think of anything to fill this space. It's pretty cool, am i right? Now check this out!This is the paragraph to the already super awesome cool headline above. This is where I explain, in detail, the headlined topic above. Sometimes, I'll even post sections and snippets of code so you can better understand what I'm talking about. I'm just making stuff up now, because I can't really think of anything to fill this space. It's pretty cool, am i right? Now check this out! </p>
-						
-						<br clear="left"/>
-						
-						<p class="postline"><i style="font-size: 13px;" class="fa fa-pencil"></i> Posted by Logan Butler (Terum) on June 12th, 2015</p>
 					</div>
 				</div>
 			</div>

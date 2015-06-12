@@ -15,11 +15,11 @@
 
 			<!-- Page fonts: Abel, Sans -->
 			<link href='http://fonts.googleapis.com/css?family=Abel' rel='stylesheet' type='text/css'>
-			<link href="http://terum.us/css/main.one.css" rel="stylesheet" type="text/css"/>
+			<link href="css/main.one.css" rel="stylesheet" type="text/css"/>
 			<link href="css/main.two.css" rel="stylesheet" type="text/css"/>
 			
 			<!-- Font Awesome 4.3.0 -->
-			<link href="http://terum.us/font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
+			<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
 		
 			<title>Terum International Solutions</title>
 		</head>
@@ -28,16 +28,16 @@
 			<!-- Navigation Sidebar -->
 			<div class="sidebar">
 				<!-- Logo -->
-				<img class="logo" src="http://terum.us/teurm.png" height="150" width="180" alt="logo"/>
+				<img class="logo" src="http://terum.us/img/teurm.png" height="150" width="180" alt="logo"/>
 				
 				<!-- Navigation -->
 				<div class="left-nav">
 					<nav class="navbar">
 						<ul>
 							<a href="http://terum.us/index.php"><li id="home">Homepage</li></a>
-							<a href="http://terum.us/repository.php"><li id="repo">Repository</li></a>
+							<a href="https://github.com/loganbutlre"><li id="repo">Repository</li></a>
 							<a href="http://terum.us/about.php"><li id="abou">About</li></a>
-							<a href="http://terum.us/solutions.php"><li id="exra">Solutions</li></a>
+							<a href="http://terum.us/projects.php"><li id="exra">Projects</li></a>
 							<a href="http://terum.us/contact.php"><li id="cont">Contact</li></a>
 						</ul>
 					</nav>

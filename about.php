@@ -28,7 +28,7 @@
 			<!-- Navigation Sidebar -->
 			<div class="sidebar">
 				<!-- Logo -->
-				<img class="logo" src="teurm.png" height="150" width="180" alt="logo"/>
+				<img class="logo" src="http://terum.us/img/teurm.png" height="150" width="180" alt="logo"/>
 				
 				<!-- Navigation -->
 				<div class="left-nav">
@@ -37,7 +37,7 @@
 							<a href="http://terum.us/index.php"><li id="home">Homepage</li></a>
 							<a href="https://github.com/loganbutlre"><li id="repo">Repository</li></a>
 							<a href="http://terum.us/about.php"><li id="abou">About</li></a>
-							<a href="http://terum.us/solutions.php"><li id="exra">Solutions</li></a>
+							<a href="http://terum.us/projects.php"><li id="exra">Projects</li></a>
 							<a href="http://terum.us/contact.php"><li id="cont">Contact</li></a>
 						</ul>
 					</nav>
@@ -72,7 +72,7 @@
 						> But wait! There's more. Not only do I program and play baseball, I also have a job as a technician, referee, and builder at <a href="http://www.indyacrespaintball.com">Indy Acres Paintball (IAP)</a>. I love my jobs, and everything I do usually ends up putting a smile on someones face. Either it be making the backend APIs for 9GAG that support those millions of funny pictures that make people laugh; to my parents being so proud of me within my baseball regards or even the smiles that come across the kids at the paintball field when a Call of Duty game mode comes into <i>real life</i>.</p>
 						
 						<br clear="left"/>
-						<img src="iap.jpg" height="250" width="350"/>
+						<img src="http://terum.us/img/iap.jpg" height="250" width="350"/>
 					</div>
 				</div>
 			</div>
