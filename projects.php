@@ -57,18 +57,18 @@
 							<!-- Badass project posts -->
 							<h2 class="hook">Most recent projects</h1>
 							<div class="col-1">
-								<h4>Project 1</h4>
-								<p>project subline</p> <br />
+								<h4>Hustlin'</h4>
+								<p>everyday i'm hustlin, yanno.</p> <br />
 								<div class="pic"></div><br />
-								<p>project description, or short description for introducing the post. project description, or short description for introducing the post.</p>
-								<a href="#"><i class="fa fa-forward"></i> read more</a>
+								<p>A fun little website I created to show my weirdness. Upon hovering over the word "hustlin, you'll get a nice suprise. I advise turning your speakers down.</p>
+								<a href="/hustlin/index.php"><i class="fa fa-forward"></i> check it out!</a>
 							</div>
 							<div class="col-2">
 								<h4>Project 2</h4>
 								<p>project subline</p> <br />
 								<div class="pic"></div> <br />
 								<p>project description, or short description for introducing the post. project description, or short description for introducing the post.</p>
-								<a href="#"><i class="fa fa-forward"></i> read more</a>
+								<a href="#"><i class="fa fa-forward"></i> </a>
 							</div>
 							<div class="col-3">
 								<h4>Project 3</h4>
