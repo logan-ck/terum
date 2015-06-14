@@ -59,7 +59,7 @@
 							<div class="col-1">
 								<h4>Hustlin'</h4>
 								<p>everyday i'm hustlin, yanno.</p> <br />
-								<div class="pic"></div><br />
+								<div class="pic"><a href="/hustlin"><img src="img/hustlin.png" height="79" width="380" alt=""/></a></div><br />
 								<p>A fun little website I created to show my weirdness. Upon hovering over the word "hustlin, you'll get a nice suprise. I advise turning your speakers down.</p>
 								<a href="/hustlin/index.php"><i class="fa fa-forward"></i> check it out!</a>
 							</div>
