@@ -44,7 +44,7 @@
 				</div>
 				
 				<div class="footer">
-					&copy; 2015 Logan Butler <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a class="dl" href="http://terum.us/info.php?action=dmca">DMCA</a>
+					&copy; 2015 Logan Butler <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a class="dl" href="http://terum.us/info.php?action=dmca">DMCA</a>
 				</div>
 			</div>
 			<!-- End Nav-Sidebar -->
@@ -61,21 +61,21 @@
 								<p>everyday i'm hustlin, yanno.</p> <br />
 								<div class="pic"><a href="/hustlin"><img src="img/hustlin.png" height="79" width="380" alt=""/></a></div><br />
 								<p>A fun little website I created to show my weirdness. Upon hovering over the word "hustlin, you'll get a nice suprise. I advise turning your speakers down.</p>
-								<a href="/hustlin/index.php"><i class="fa fa-forward"></i> check it out!</a>
+								<a href="/hustlin"><i class="fa fa-forward"></i> check it out</a>
 							</div>
 							<div class="col-2">
-								<h4>Project 2</h4>
-								<p>project subline</p> <br />
-								<div class="pic"></div> <br />
-								<p>project description, or short description for introducing the post. project description, or short description for introducing the post.</p>
-								<a href="#"><i class="fa fa-forward"></i> </a>
+								<h4>PAP</h4>
+								<p>passive agreesive password machine</p> <br />
+								<div class="pic"><a href="/pap"><img src="img/pap.png" height="79" width="380" alt=""/></a></div> <br />
+								<p>Ever wondered how powerful your password is? Well, this machine will not only tell you how good your chosen password is, but be brutally honest about it as well.</p>
+								<a href="/pap"><i class="fa fa-forward"></i> check it out</a>
 							</div>
 							<div class="col-3">
-								<h4>Project 3</h4>
-								<p>project subline</p> <br />
-								<div class="pic"></div> <br />
-								<p>project description, or short description for introducing the post. project description, or short description for introducing the post.</p>
-								<a href="#"><i class="fa fa-forward"></i> read more</a>
+								<h4>Carrion Gaming</h4>
+								<p>europe-based gaming community</p> <br />
+								<div class="pic"><a href="/carrion-gaming"><img src="img/carrion.png" height="79" width="380" alt=""/></a></div> <br />
+								<p>Counter Strike: Global Offensive is a game of competitiveness, in that you've got communities like this of friendly competition and activities.</p>
+								<a href="http://www.cgclan.net"><i class="fa fa-forward"></i> check it out</a>
 							</div>
 							<div class="col-4">
 								<h4>Project 4</h4>
