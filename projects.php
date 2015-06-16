@@ -78,9 +78,9 @@
 								<a href="http://www.cgclan.net"><i class="fa fa-forward"></i> check it out</a>
 							</div>
 							<div class="col-4">
-								<h4>Project 4</h4>
-								<p>project subline</p> <br />
-								<div class="pic"></div> <br />
+								<h4>Spiders</h4>
+								<p>these god damn spiders follow your cursor.. always buggin'</p> <br />
+								<div class="pic"><a href="/spiders"><img src="img/spiders.png" height="79" width="380" alt=""/></a></div> <br />
 								<p>project description, or short description for introducing the post. project description, or short description for introducing the post.</p>
 								<a href="#"><i class="fa fa-forward"></i> read more</a>
 							</div>
