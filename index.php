@@ -52,6 +52,17 @@
 			<!-- Start Body -->
 			<div class="body">
 				<div class="content">
+					<div class="game-header">
+						<h2>My Baseball Games (Indy Predators 18u)</h2>
+						<p class="sub-title">game updates, record, and other statistics.
+						
+						<br clear="left"/>
+						
+						<p class="progress">Game today @ <span class="b">6:00 PM</span> (June 17th, 2015) | <span class="b">Ben Davis High School</span>, Indianapolis IN</p> <br />
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3066.009820070301!2d-86.291011!3d39.784335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886ca85b75fea46f%3A0x46cfca8735d13e7f!2sBen+Davis+High+School!5e0!3m2!1sen!2sus!4v1434482888968" width="800" height="200" frameborder="0" style="border:0"></iframe> <br />
+						<p> <span class="b">Result</span>: <i>(To be played)</i> </p>
+					</div>
+					<hr />
 					<div class="post">
 						<h2>This week’s PC gaming deals</h2>
 						<p class="sub-title">the best hardware, for the best prices I can find.</p>

@@ -32,11 +32,10 @@ li:hover { background-color: ; color: #DB3D23;}
 }
 .body hr {
 	background-color: darkred;
-	height: 3px;
-	width: 900px;
+	height: 1px;
 }
 .content {
-	padding-top: 9.55em;
+	padding-top: 1.0em;
 	padding-left: 1.5em;
 	padding-right: 3.5em;
 }
@@ -111,4 +110,12 @@ li:hover { background-color: ; color: #DB3D23;}
 	font-size: 15px;
 	font-style: italic;
 }
-
+.game-header {
+	padding-top: .2em;
+}
+.game-header > h2 {
+	padding-top: 0;
+}
+.b {
+	font-weight: bold;
+}
