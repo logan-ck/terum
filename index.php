@@ -6,7 +6,7 @@
 			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 			<meta http-equiv="X-UA-Compatible" content="chrome=1, IE=edge">
 			
-			<meta name="description" content="an actual website by logan.. "/>
+			<meta name="description" content="Terum (Logan Butler's) Homepage | Home of the Awesomeness Station, and the best PC posts and gaming activity, ever."/>
 			<meta name="keywords" content="personal, homepage, terum"/>
 			<meta name="robots" content="googlebot, bingbot"/>
 			
@@ -21,7 +21,7 @@
 			<!-- Font Awesome 4.3.0 -->
 			<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
 		
-			<title>Terum International Solutions</title>
+			<title>(Terum) Logan's Headquarters</title>
 		</head>
 		
 		<body id="content">
@@ -53,22 +53,57 @@
 			<div class="body">
 				<div class="content">
 					<div class="post">
-						<h2>This is a new headline, for something cool.</h2>
-						<p class="sub-title">This is a sub-heading for the already cool headline above.</p>
+						<h2>This week’s PC gaming deals</h2>
+						<p class="sub-title">the best hardware, for the best prices I can find.</p>
+						
+						<br clear="left"/>
+						<img src="img/header.jpg" height="300" width="500"/>
+						<br />
+						<p class="page-content"
+						> I like cheap PC components and accessories. But you know what I like even more? Expensive PC components and accessories that are on sale! Each week, I have my bargainmeisters bring you a list of the best component, accessory, and software sales for PC gamers.  <br />
+						
+						Some highlights of this week: the Corsair Air 540 case has a rebate and a discount lowering its price right now. A large capacity Seagate HDD is also discounted, but only in one of Newegg's shellshocker deals. Steam's Summer Sale is still going strong, but there are also deals on the Mount & Blade games going on at Green Man Gaming. Amazon also has classics like Dark Souls and Civ 5 discounted down to very cheap right now.  </p>
+						
+						<br clear="left"/>
+						
+						<img src="img/hardware.jpg" height="100" width="600"/> <br />
+						<p>
+						— The silver Corsair Air 540 case is down to <a href="http://fave.co/1G8oGrG">$99 on Newegg</a> after a $20 rebate and with the code FATWALLETEX612 <br />
+						— The Crossover 27QHD 2560x1440 27” LED monitor is <a href="http://fave.co/1GInF02">$260 on Green Sum’s Ebay storefront</a>. <br />
+						— The Logitech C615 webcam is <a href="http://target.georiot.com/Proxy.ashx?TSID=8432&GR_URL=http%3A%2F%2Fwww.amazon.com%2Fdp%2FB004YW7WCY%2F%3Ftag%3Dpcgedit-20">$43 on Amazon.</a> <br />
+						— A very short-lived deal, the Seagate 4TB HDD is down to <a href="http://fave.co/1G8ubH1">$120 on Newegg</a>. <br />
+						</p>
+						<br clear="left"/>
+						
+						<img src="img/gamedeals.jpg" height="100" width="600"/>
+						<p>
+						— The <a href="http://store.steampowered.com/">Steam Summer Sale</a> is in full swing with too many deals too list. <br />
+						— The Special Edition of Total War: Attila is <a href="http://fave.co/1GIp5HK">$37 on Gamestop.com</a>. <br />
+						— The Mount & Blade games are on sale at <a href="http://fave.co/1G8uS35">Green Man Gaming</a>, including <a href="http://fave.co/1G8vhlX">Mount & Blade: Warband for $7</a>. <br />
+						— Grey Goo is only <a href="http://fave.co/1G8uVvx">$20 at GamersGate</a>. <br />
+						— Dark Souls: Prepare to Die Edition is only <a href="http://target.georiot.com/Proxy.ashx?TSID=8432&GR_URL=http%3A%2F%2Fwww.amazon.com%2Fdp%2FB00917DBUE%2F%3Ftag%3Dpcgedit-20">$5 on Amazon</a>. <br />
+						— Civ 5’s Complete Edition is down to <a href="http://target.georiot.com/Proxy.ashx?TSID=8432&GR_URL=http%3A%2F%2Fwww.amazon.com%2Fdp%2FB00I4C2EKA%2F%3Ftag%3Dpcgedit-20">$12.50 on Amazon</a>. </br >
+						</p>
+						<br clear="left"/>
+						
+						<p class="postline"><i style="font-size: 13px;" class="fa fa-pencil"></i> Posted by Logan Butler (Terum) on June 15th, 2015</p>
+					</div>
+					<div class="post">
+						<h2>Superhot E3 teaser is full of slow-motion swords and headshots</h2>
+						<p class="sub-title">ready to see the coolest games of the year?</p>
 						
 						<br clear="left"/>
 						
 						<p class="page-content"
-						> This is the paragraph to the already super awesome cool headline above. This is where I explain, in detail, the headlined topic above. Sometimes, I'll even post sections and snippets of code so you can better understand what I'm talking about. I'm just making stuff up now, because I can't really think of anything to fill this space. It's pretty cool, am i right? Now check this out!This is the paragraph to the already super awesome cool headline above. This is where I explain, in detail, the headlined topic above. Sometimes, I'll even post sections and snippets of code so you can better understand what I'm talking about. I'm just making stuff up now, because I can't really think of anything to fill this space. It's pretty cool, am i right? Now check this out! </p>
+						> Superhot, the Kickstarter-funded FPS where time only moves when you do, showed off a brief teaser at E3. It's full of slow-motion so slow it's practically no-motion, plus swinging swords, spinning chains, and a few chunky headshots. Blessedly, the name of the game is only spoken once in the teaser, as opposed to the last trailer I saw in which it was repeated so often we all wished I could stop time. </p>
 						
 						<br clear="left"/>
 						
-						<p class="page-content"
-						> This is the paragraph to the already super awesome cool headline above. This is where I explain, in detail, the headlined topic above. Sometimes, I'll even post sections and snippets of code so you can better understand what I'm talking about. I'm just making stuff up now, because I can't really think of anything to fill this space. It's pretty cool, am i right? Now check this out!This is the paragraph to the already super awesome cool headline above. This is where I explain, in detail, the headlined topic above. Sometimes, I'll even post sections and snippets of code so you can better understand what I'm talking about. I'm just making stuff up now, because I can't really think of anything to fill this space. It's pretty cool, am i right? Now check this out! </p>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/5tiEXonI_mc" frameborder="0" allowfullscreen></iframe> <br />
 						
 						<br clear="left"/>
 						
-						<p class="postline"><i style="font-size: 13px;" class="fa fa-pencil"></i> Posted by Logan Butler (Terum) on June 10th, 2015</p>
+						<p class="postline"><i style="font-size: 13px;" class="fa fa-pencil"></i> Posted by Logan Butler (Terum) on June 12th, 2015</p>
 					</div>
 				</div>
 			</div>
