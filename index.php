@@ -28,9 +28,6 @@
 		<body id="content">
 			<!-- Navigation Sidebar -->
 			<div class="sidebar">
-				<!-- Logo -->
-				<img class="logo" src="http://terum.us/img/teurm.png" height="150" width="180" alt="logo"/>
-				
 				<!-- Navigation -->
 				<div class="left-nav">
 					<nav class="navbar">
@@ -82,7 +79,7 @@
 						> Crucial made a big splash in the SSD market when it launched the MX100, a SATA SSD fast enough to compete with Samsung’s popular 840 EVO, but at an even lower price. In 2015, Crucial followed that release with the faster, all-around better MX200, and a new drive, the BX100, with a cheap price tag. The BX100 is our choice for the best budget SSD. Moving to TLC flash will allow Crucial to price its drives even more cheaply.</p>
 						<br />
 						<p class="page-content"
-						> As we explained in our best SSD guide, there are three main types of flash NAND: SLC, MLC and TLC. Most SATA SSDs, including Crucial’s, use 2-bit MLC memory. Those two bits represent four possible binary states, triggered by four different levels of voltage. TLC flash is 3-bit, for a total of eight possible binary states, triggered by eight different levels of voltage. TLC, therefore, allows you to store more data for the same density of flash, making it cheaper and more efficient. But there’s a downside: because each cell is being erased far more often, and has to be sensitive to more voltage levels, performance and longevity suffer compared to MLC.
+						> As I explained in my best SSD guide, there are three main types of flash NAND: SLC, MLC and TLC. Most SATA SSDs, including Crucial’s, use 2-bit MLC memory. Those two bits represent four possible binary states, triggered by four different levels of voltage. TLC flash is 3-bit, for a total of eight possible binary states, triggered by eight different levels of voltage. TLC, therefore, allows you to store more data for the same density of flash, making it cheaper and more efficient. But there’s a downside: because each cell is being erased far more often, and has to be sensitive to more voltage levels, performance and longevity suffer compared to MLC.
 						<br /> <br />
 						<p class="page-content"
 						> While TLC has its drawbacks, memory companies are finding creative engineering solutions to minimize the performance impacts while maximizing the storage density benefits. Samsung’s 850 EVO, for example, uses a high-endurance 1-bit SLC flash cache to do most of its reading and writing, leading to great performance and plenty of longevity, since the TLC cells are only written to for longer term storage.

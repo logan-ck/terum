@@ -9,20 +9,21 @@ html, a, body, h1, h2, h3, h4, h5, h6, p {
 a { font-weight: bold; color: darkred; -o-transition:.5s; -ms-transition:.5s; -moz-transition:.5s; -webkit-transition:.5s; transition:.5s; text-decoration: none; }
 a:hover { background-color: ; color: #DB3D23; }
 /* Sidebar Styling */
-.sidebar { position: fixed; float: left; padding: 0; margin-top: 0; height: 100vh; width:  220px; background-color: white; border-right: 5px solid darkred; }
+.sidebar { position: fixed; float: left; padding: 0; margin-top: 0; height: 100vh; width:  220px; background-color: #1F1F1F; border-right: 5px solid darkred; }
 .logo { display: block; width: auto; margin: auto; }
-.navbar { margin-top: 10%; font-size: 20px; display: block; }
-.navbar ul { padding-left: 1.8em; list-style: none; }	
-.navbar li  { font-weight: bold; color: darkred; padding: 1.2em; -o-transition:.5s; -ms-transition:.5s; -moz-transition:.5s; -webkit-transition:.5s; transition:.5s; text-decoration: none; }
-li:hover { background-color: ; color: #DB3D23;}
-#home:before { font-family: 'FontAwesome'; content: '\f015'; margin:0 12px 0 -15px; color: black }
-#repo:before { font-family: 'FontAwesome'; content: '\f126'; margin:0 19px 0 -15px; color: black; }
-#abou:before { font-family: 'FontAwesome'; content: '\f128'; margin:0 20px 0 -15px; color: black; }
-#exra:before { font-family: 'FontAwesome'; content: '\f0ad'; margin:0 13px 0 -15px; color: black; }
-#cont:before { font-family: 'FontAwesome'; content: '\f098'; margin:0 13px 0 -15px; color: black; }
-.footer { position: fixed; display: block; bottom: 0; height: 80px; left: 43px; }
-.dl { color: darkred; -o-transition:.5s; -ms-transition:.5s; -moz-transition:.5s; -webkit-transition:.5s; transition:.5s; }
-.dl:hover { color: #DB3D23; }
+.left-nav { padding-top: 0; }
+.navbar { padding-top: -2em; font-size: 20px; display: block; }
+.navbar ul { padding-left: 1.8em; list-style: none; margin: 0; }	
+.navbar li  { font-weight: bold; color: white; padding: 1.2em; margin: 0; -o-transition:.5s; -ms-transition:.5s; -moz-transition:.5s; -webkit-transition:.5s; transition:.5s; text-decoration: none; }
+li:hover { background-color: ; color: darkred;}
+#home:before { font-family: 'FontAwesome'; content: '\f015'; margin:0 12px 0 -15px; color: white; }
+#repo:before { font-family: 'FontAwesome'; content: '\f126'; margin:0 19px 0 -15px; color: white; }
+#abou:before { font-family: 'FontAwesome'; content: '\f128'; margin:0 20px 0 -15px; color: white; }
+#exra:before { font-family: 'FontAwesome'; content: '\f0ad'; margin:0 13px 0 -15px; color: white; }
+#cont:before { font-family: 'FontAwesome'; content: '\f098'; margin:0 13px 0 -15px; color: white; }
+.footer { position: fixed; display: block; bottom: 0; height: 80px; left: 43px; color: white; }
+.dl { color: white; -o-transition:.5s; -ms-transition:.5s; -moz-transition:.5s; -webkit-transition:.5s; transition:.5s; }
+.dl:hover { color: darkred; }
 
 /* Body styling */
 .body {

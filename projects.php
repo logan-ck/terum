@@ -28,8 +28,6 @@
 			<!-- Navigation Sidebar -->
 			<div class="sidebar">
 				<!-- Logo -->
-				<img class="logo" src="http://terum.us/img/teurm.png" height="150" width="180" alt="logo"/>
-				
 				<!-- Navigation -->
 				<div class="left-nav">
 					<nav class="navbar">
