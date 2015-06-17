@@ -1,3 +1,4 @@
+<!-- If you're jordan, look at line 55 -->
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtm11/DTD/xhtml-transitional.dtd">
 	<html xmlns="http://www.w3.org/1999/xhtml">
 		<head>
@@ -48,7 +49,11 @@
 				</div>
 			</div>
 			<!-- End Nav-Sidebar -->
+			<!-- 
 			
+			LOOK HERE JORDAN 
+			
+			-->
 			<!-- Start Body -->
 			<div class="body">
 				<div class="content">
@@ -58,9 +63,9 @@
 						
 						<br clear="left"/>
 						
-						<p class="progress">Game today @ <span class="b">6:00 PM</span> (June 17th, 2015) | <span class="b">Ben Davis High School</span>, Indianapolis IN</p> <br />
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3066.009820070301!2d-86.291011!3d39.784335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886ca85b75fea46f%3A0x46cfca8735d13e7f!2sBen+Davis+High+School!5e0!3m2!1sen!2sus!4v1434482888968" width="800" height="200" frameborder="0" style="border:0"></iframe> <br />
-						<p> <span class="b">Result</span>: <i>(To be played)</i> </p>
+						<p class="progress">Tournament, June 18th-21st  | <span class="b">Indiana State University</span>, Terra Haute IN</p> <br />
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12319.907839563095!2d-87.40412778462526!3d39.469849213254946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886d653ba71c18c9%3A0x445b200ff631b47e!2sIndiana+State+University!5e0!3m2!1sen!2sus!4v1434509136391" width="800" height="200" frameborder="0" style="border:0"></iframe> <br /> <br />
+						<p> <span class="b">Result</span>: <i>(To be played)</i> <br /><span class="b">Team Record</span>: <span style="color: lightgreen">2</span>/<span style="color: red">0</span></p>
 					</div>
 					<hr />
 					<div class="post">

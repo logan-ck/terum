@@ -112,6 +112,7 @@ li:hover { background-color: ; color: #DB3D23;}
 }
 .game-header {
 	padding-top: .2em;
+	height: 363.188px;
 }
 .game-header > h2 {
 	padding-top: 0;
