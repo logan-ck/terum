@@ -8,6 +8,7 @@ html, a, body, h1, h2, h3, h4, h5, h6, p {
 #content { position: absolute; top: 0; right: 0; bottom: 0; left: 0; background-color: ; }
 a { font-weight: bold; color: darkred; -o-transition:.5s; -ms-transition:.5s; -moz-transition:.5s; -webkit-transition:.5s; transition:.5s; text-decoration: none; }
 a:hover { background-color: ; color: #DB3D23; }
+.clearfix { background-color: darkred; width: 150px; }
 /* Sidebar Styling */
 .sidebar { position: fixed; float: left; padding: 0; margin-top: 0; height: 100vh; width:  220px; background-color: #1F1F1F; border-right: 5px solid darkred; }
 .logo { display: block; width: auto; margin: auto; }
@@ -20,12 +21,18 @@ a:hover { background-color: ; color: #DB3D23; }
 #abou:hover { background-color: ; color: blue; }
 #exra:hover { background-color: ; color: green; }
 #cont:hover { background-color: ; color: yellow; }
+#stem:hover { background-color: ; color: lightblue; }
+#cstr:hover { background-color: ; color: lightgreen; }
+#game:hover { background-color: ; color: pink; }
 #home:before { font-family: 'FontAwesome'; content: '\f015'; margin:0 12px 0 -15px; color: white; }
-#repo:before { font-family: 'FontAwesome'; content: '\f126'; margin:0 19px 0 -15px; color: white; }
+#repo:before { font-family: 'FontAwesome'; content: '\f121'; margin:0 9px 0 -15px; color: white; }
 #abou:before { font-family: 'FontAwesome'; content: '\f128'; margin:0 20px 0 -15px; color: white; }
 #exra:before { font-family: 'FontAwesome'; content: '\f0ad'; margin:0 13px 0 -15px; color: white; }
 #cont:before { font-family: 'FontAwesome'; content: '\f098'; margin:0 13px 0 -15px; color: white; }
-.footer { position: fixed; display: block; bottom: 0; height: 80px; left: 43px; color: white; }
+#stem:before { font-family: 'FontAwesome'; content: '\f155'; margin:0 20px 0 -15px; color: white; }
+#cstr:before { font-family: 'FontAwesome'; content: '\f05b'; margin:0 13px 0 -15px; color: white; }
+#game:before { font-family: 'FontAwesome'; content: '\f03a'; margin:0 13px 0 -15px; color: white; }
+.footer { position: fixed; display: block; bottom: 0; height: 50px; left: 48px; color: white; }
 .dl { color: white; -o-transition:.5s; -ms-transition:.5s; -moz-transition:.5s; -webkit-transition:.5s; transition:.5s; }
 .dl:hover { color: darkred; }
 
@@ -63,6 +70,14 @@ a:hover { background-color: ; color: #DB3D23; }
 .sub {
 	font-size: 18px;
 	font-style: italic;
+}
+.sub-main {
+	font-size: 11px;
+	font-weight: normal;
+	padding-left: 1.5em;
+}
+.sub-main {
+	color: white;
 }
 .center {
 	text-align: center;

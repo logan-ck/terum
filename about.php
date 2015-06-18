@@ -21,7 +21,7 @@
 			<!-- Font Awesome 4.3.0 -->
 			<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
 		
-			<title>Terum International Solutions</title>
+			<title>(Terum) Logan's Headquarters | About</title>
 		</head>
 		
 		<body id="content">
@@ -31,17 +31,23 @@
 				<div class="left-nav">
 					<nav class="navbar">
 						<ul>
-							<a href="http://terum.us/index.php"><li id="home">Homepage</li></a>
-							<a href="https://github.com/loganbutlre"><li id="repo">Repository</li></a>
-							<a href="http://terum.us/about.php"><li id="abou">About</li></a>
-							<a href="http://terum.us/projects.php"><li id="exra">Projects</li></a>
-							<a href="http://terum.us/contact.php"><li id="cont">Contact</li></a>
+							<a href="http://terum.us/index.php"><li id="home">Homepage <h2 class="sub-main">main index</h2></li></a>
+							<a href="https://github.com/loganbutlre"><li id="repo">Repository <h2 class="sub-main">code repository</h2></li></a>
+							<a href="http://terum.us/about.php"><li id="abou">About <h2 class="sub-main">about myself</h2></li></a>
+							<a href="http://terum.us/projects.php"><li id="exra">Projects <h2 class="sub-main">my work</h2></li></a>
+							<a href="http://terum.us/contact.php"><li id="cont">Contact <h2 class="sub-main">get in touch</h2></li></a>
+						</ul>
+						<hr class="clearfix">
+						<ul>
+							<a href="http://store.steampowered.com/"><li id="stem">Steam <h2 class="sub-main">game marketplace</h2></li></a>
+							<a href="http://blog.counter-strike.net/"><li id="cstr">Counter Strike <h2 class="sub-main">my favorite game</h2></li></a>
+							<a href="#"><li id="game">Games List <h2 class="sub-main">coming soon tho</h2></li></a>
 						</ul>
 					</nav>
 				</div>
 				
 				<div class="footer">
-					&copy; 2015 Logan Butler <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a class="dl" href="http://terum.us/info.php?action=dmca">DMCA</a>
+					&copy; 2015 Logan Butler
 				</div>
 			</div>
 			<!-- End Nav-Sidebar -->
