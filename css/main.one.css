@@ -14,8 +14,12 @@ a:hover { background-color: ; color: #DB3D23; }
 .left-nav { padding-top: 0; }
 .navbar { padding-top: -2em; font-size: 20px; display: block; }
 .navbar ul { padding-left: 1.8em; list-style: none; margin: 0; }	
-.navbar li  { font-weight: bold; color: white; padding: 1.2em; margin: 0; -o-transition:.5s; -ms-transition:.5s; -moz-transition:.5s; -webkit-transition:.5s; transition:.5s; text-decoration: none; }
-li:hover { background-color: ; color: darkred;}
+.navbar li { font-weight: bold; color: white; padding: 1.2em; margin: 0; -o-transition:.5s; -ms-transition:.5s; -moz-transition:.5s; -webkit-transition:.5s; transition:.5s; text-decoration: none; }
+#home:hover { background-color: ; color: darkred;}
+#repo:hover { background-color: ; color: orange; }
+#abou:hover { background-color: ; color: blue; }
+#exra:hover { background-color: ; color: purple; }
+#cont:hover { background-color: ; color: yellow; }
 #home:before { font-family: 'FontAwesome'; content: '\f015'; margin:0 12px 0 -15px; color: white; }
 #repo:before { font-family: 'FontAwesome'; content: '\f126'; margin:0 19px 0 -15px; color: white; }
 #abou:before { font-family: 'FontAwesome'; content: '\f128'; margin:0 20px 0 -15px; color: white; }
