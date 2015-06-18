@@ -18,7 +18,7 @@ a:hover { background-color: ; color: #DB3D23; }
 #home:hover { background-color: ; color: darkred;}
 #repo:hover { background-color: ; color: orange; }
 #abou:hover { background-color: ; color: blue; }
-#exra:hover { background-color: ; color: purple; }
+#exra:hover { background-color: ; color: green; }
 #cont:hover { background-color: ; color: yellow; }
 #home:before { font-family: 'FontAwesome'; content: '\f015'; margin:0 12px 0 -15px; color: white; }
 #repo:before { font-family: 'FontAwesome'; content: '\f126'; margin:0 19px 0 -15px; color: white; }
