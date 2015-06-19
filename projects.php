@@ -33,7 +33,7 @@
 					<nav class="navbar">
 						<ul>
 							<a href="http://terum.us/index.php"><li id="home">Homepage <h2 class="sub-main">main index</h2></li></a>
-							<a href="https://github.com/loganbutlre"><li id="repo">Repository <h2 class="sub-main">code repository</h2></li></a>
+							<a href="https://github.com/theloganbutler"><li id="repo">Repository <h2 class="sub-main">code repository</h2></li></a>
 							<a href="http://terum.us/about.php"><li id="abou">About <h2 class="sub-main">about myself</h2></li></a>
 							<a href="http://terum.us/projects.php"><li id="exra">Projects <h2 class="sub-main">my work</h2></li></a>
 							<a href="http://terum.us/contact.php"><li id="cont">Contact <h2 class="sub-main">get in touch</h2></li></a>
@@ -85,7 +85,7 @@
 								<h4>Spiders</h4>
 								<p>these god damn spiders follow your cursor.. always buggin'</p> <br />
 								<div class="pic"><a href="/spiders"><img src="img/spiders.png" height="79" width="380" alt=""/></a></div> <br />
-								<p>project description, or short description for introducing the post. project description, or short description for introducing the post.</p>
+								<p>A complex javascript animation that overlays a canvas of spider-like (constellation) looking lines and dots; and they move around.</p>
 								<a href="#"><i class="fa fa-forward"></i> read more</a>
 							</div>
 						</div>
@@ -94,11 +94,11 @@
 						<div class="row-more">
 							<h2 class="hook">Old but gold projects</h1>
 							<div class="col-1">
-								<h4>Project 1</h4>
-								<p>project subline</p> <br />
-								<div class="pic"></div><br />
-								<p>project description, or short description for introducing the post. project description, or short description for introducing the post.</p>
-								<a href="#"><i class="fa fa-forward"></i> read more</a>
+								<h4>Terum</h4>
+								<p>the website you're on right now.</p> <br />
+								<div class="pic"><a href="/index.php"><img src="img/terum-bg.png" height="79" width="380" alt=""/></a></div><br />
+								<p>An html/css website designed to showoff my talent, and other aspects of my coding ability. The website is a full-on creation of me.</p>
+								<a href="include/source.zip"><i class="fa fa-forward"></i> download source</a>
 							</div>
 							<div class="col-2">
 								<h4>Project 2</h4>

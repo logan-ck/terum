@@ -39,7 +39,7 @@
 					<nav class="navbar">
 						<ul>
 							<a href="http://terum.us/index.php"><li id="home">Homepage <h2 class="sub-main">main index</h2></li></a>
-							<a href="https://github.com/loganbutlre"><li id="repo">Repository <h2 class="sub-main">code repository</h2></li></a>
+							<a href="https://github.com/theloganbutler"><li id="repo">Repository <h2 class="sub-main">code repository</h2></li></a>
 							<a href="http://terum.us/about.php"><li id="abou">About <h2 class="sub-main">about myself</h2></li></a>
 							<a href="http://terum.us/projects.php"><li id="exra">Projects <h2 class="sub-main">my work</h2></li></a>
 							<a href="http://terum.us/contact.php"><li id="cont">Contact <h2 class="sub-main">get in touch</h2></li></a>

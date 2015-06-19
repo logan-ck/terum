@@ -33,7 +33,7 @@
 					<nav class="navbar">
 						<ul>
 							<a href="http://terum.us/index.php"><li id="home">Homepage <h2 class="sub-main">main index</h2></li></a>
-							<a href="https://github.com/loganbutlre"><li id="repo">Repository <h2 class="sub-main">code repository</h2></li></a>
+							<a href="https://github.com/theloganbutler"><li id="repo">Repository <h2 class="sub-main">code repository</h2></li></a>
 							<a href="http://terum.us/about.php"><li id="abou">About <h2 class="sub-main">about myself</h2></li></a>
 							<a href="http://terum.us/projects.php"><li id="exra">Projects <h2 class="sub-main">my work</h2></li></a>
 							<a href="http://terum.us/contact.php"><li id="cont">Contact <h2 class="sub-main">get in touch</h2></li></a>
@@ -68,7 +68,7 @@
 						
 						<p class="progress">Tournament, June 18th-21st  | <span class="b">Indiana State University</span>, Terra Haute IN</p> <br />
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12319.907839563095!2d-87.40412778462526!3d39.469849213254946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886d653ba71c18c9%3A0x445b200ff631b47e!2sIndiana+State+University!5e0!3m2!1sen!2sus!4v1434509136391" width="800" height="200" frameborder="0" style="border:0"></iframe> <br /> <br />
-						<p> <span class="b">Result</span>: <i>(To be played)</i> <br /><span class="b">Team Record</span>: <span style="color: lightgreen">2</span>/<span style="color: red">0</span></p>
+						<p> <span class="b">Result</span>: <span style="color: red; font-weight: bold;">CANCELLED</span> <br /><span class="b">Team Record</span>: <span style="color: lightgreen">2</span>/<span style="color: red">0</span></p>
 					</div>
 					<hr />
 					<div class="post">
