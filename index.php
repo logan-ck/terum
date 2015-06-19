@@ -98,8 +98,7 @@
 						<p class="sub-title">the best hardware, for the best prices I can find.</p>
 						
 						<br clear="left"/>
-						<img src="img/header.jpg" height="300" width="500"/>
-						<br />
+						
 						<p class="page-content"
 						> I like cheap PC components and accessories. But you know what I like even more? Expensive PC components and accessories that are on sale! Each week, I have my bargainmeisters bring you a list of the best component, accessory, and software sales for PC gamers.  <br />
 						
@@ -107,7 +106,7 @@
 						
 						<br clear="left"/>
 						
-						<img src="img/hardware.jpg" height="100" width="600"/> <br />
+						<img src="img/hardware.jpg" height="60" width="400"/> <br clear="left"/> <br />
 						<p>
 						— The silver Corsair Air 540 case is down to <a href="http://fave.co/1G8oGrG">$99 on Newegg</a> after a $20 rebate and with the code FATWALLETEX612 <br />
 						— The Crossover 27QHD 2560x1440 27” LED monitor is <a href="http://fave.co/1GInF02">$260 on Green Sum’s Ebay storefront</a>. <br />
@@ -116,7 +115,7 @@
 						</p>
 						<br clear="left"/>
 						
-						<img src="img/gamedeals.jpg" height="100" width="600"/>
+						<img src="img/gamedeals.jpg" height="60" width="400"/> <br clear="left"/> <br />
 						<p>
 						— The <a href="http://store.steampowered.com/">Steam Summer Sale</a> is in full swing with too many deals too list. <br />
 						— The Special Edition of Total War: Attila is <a href="http://fave.co/1GIp5HK">$37 on Gamestop.com</a>. <br />

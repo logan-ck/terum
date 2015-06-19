@@ -53,6 +53,7 @@ a:hover { background-color: ; color: #DB3D23; }
 }
 .page-content {
 	color: black;
+	width: 70%;
 }
 .sub-title {
 	font-size: 15px;
